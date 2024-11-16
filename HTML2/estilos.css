@@ -1,3 +1,19 @@
+header, nav
+    /*margin: -4px 1px 0px - 8px;*/
+      /*margin-top: -8px;*/
+      /*width: 100%;*/
+      /*padding-top: 10px;*/
+      /*padding-left: 10px;*/
+      /*padding-bottom: 10%;*/
+
+    nav li {
+      display: inline-block;
+      
+      margin-left: 210px;
+      margin-top: 0;
+      padding: 10px;
+      background-color: #ddd;
+      }
 * {
     padding:0;
     margin: 0;
@@ -69,5 +85,5 @@ nav ul a:hover{
     padding: 100px;
    }
    body {
-    background-color:color:#9b51e0;border:6px ;
+    background-color:color#9b51e0;border:6px ;
    }
